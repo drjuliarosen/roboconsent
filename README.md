@@ -1,0 +1,2 @@
+Rosén and Geiskkovitch. (2025). Reimagining Informed Consent in Human-Robot Interaction: Introducing the RoboConsent Framework. The 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025), Eindhoven, Netherlands, August 25-29, 2023. doi: 10.1109/RO-MAN63969.2025.11217831. 
+[Download PDF](Reimagining_Informed_Consent_in_Human-Robot_Interaction_Introducing_the_RoboConsent_Framework.pdf)
